@@ -43,6 +43,7 @@ html {
   --color-black: #000;
   --color-dark-mode: #11111b;
   --color-light-mode: #ece7e1;
+  --color-Active-mode: #0ff4a4;
   --color-ddd-color: #ddd;
   --color-gray: #c4c4c4;
   --color-purple: #8000ff;
@@ -136,6 +137,7 @@ body {
   --color-dark-mode: #ece7e1;
   --color-black: #fff;
   --color-white: #000;
+  --color-Active-mode: #0ff4a4;
   --color-ddd-color: rgb(31, 31, 31);
   --color-navbarBorder-dark: #d1d6eb;
   --static-heading-gradient-blue: #0f7878;
@@ -466,12 +468,12 @@ noscript {
 }
 
 .activeThistab {
-  color: var(--color-white);
+  color: var(--color-Active-mode);
 }
 
 .activeThistab:before {
   content: "";
-  background-color: var(--color-white);
+  background-color: var(--color-Active-mode);
   position: absolute;
   height: 10px;
   width: 10px;
