@@ -9,7 +9,7 @@
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-17%20Jun%202024-yellow.svg)](https://github.com/vi0650/Vaibhav_Padmani)
 <a href="https://github.com/vi0650/Vaibhav_Padmani/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
-<img width="100%" alt="Portfolio Screenshot" src="https://github.com/vi0650/Vaibhav_Padmani/blob/master/src/port.png">
+<img width="100%" alt="Portfolio Screenshot" src="https://raw.githubusercontent.com/vi0650/vi0650.github.io/master/src/port.png">
 
 
 :star: Star me on GitHub — it helps me a LoT🙌!
@@ -24,7 +24,7 @@
 
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- ⚠️ Remove my Bitmoji <img src="https://github.com/vi0650/Vaibhav_Padmani/blob/master/src/png/vi/520.png" width="40px" height="35px"> from the navbar and use yours instead.⚠️
+- ⚠️ Remove my Bitmoji <img src="https://raw.githubusercontent.com/vi0650/vi0650.github.io/master/src/png/vi/520.png" width="40px" height="35px"> from the navbar and use yours instead.⚠️
 - Add or remove images from `https://github.com/vi0650/Vaibhav_Padmani/blob/master/src/` directory as per your requirement.
 - Push the generated code to the `master` branch of this repository.
 - ⚠️<b>NOTE:</b> Make sure to remove `analyticsId` & `google search console Id` from `<head>` tag, and set yours, if you want to use your own Google Analytics & search console account.⚠️
